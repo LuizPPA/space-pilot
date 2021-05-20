@@ -24,7 +24,7 @@ I did this to see if I could simulate planetary physics.
 * Toggle flashlight: F
 
 ## Credits
-Main menu music: [A Terrible Fate - Andrew Prahlow](https://soundcloud.com/andrewprahlow/a-terrible-fate)
+Main menu music: [A Terrible Fate - Andrew Prahlow](https://soundcloud.com/andrewprahlow/a-terrible-fate) (listen to [Outer Wild's main menu theme song](https://soundcloud.com/andrewprahlow/main-title?in=andrewprahlow/sets/outer-wilds-original-soundtrack) by Andrew Prahlow)
 
 ## Note
 You should play *[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)*
