@@ -8,6 +8,7 @@ I did this to see if I could simulate planetary physics.
 
 ### In gravity:
 * Look: Mouse movement
+* Mouse scroll: Adjust view distance (third person)
 * Walk: W, A, S, D
 * Super jump: Space
 * Toggle flashlight: F
@@ -15,6 +16,7 @@ I did this to see if I could simulate planetary physics.
 
 ### Zero gravity:
 * Look: Mouse movement
+* Mouse scroll: Adjust view distance (third person)
 * Move: W, A, S, D
 * Go up: Space
 * Go down: Ctrl / C

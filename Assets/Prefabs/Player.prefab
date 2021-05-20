@@ -132,7 +132,7 @@ MonoBehaviour:
   zeroGravityMoveSpeed: 100
   acceleration: 10
   lookSpeed: 100
-  jumpImpulse: 100
+  jumpImpulse: 10
   propulsion: 10
 --- !u!1 &4097909826737854151
 GameObject:
